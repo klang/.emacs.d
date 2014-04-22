@@ -27,3 +27,10 @@
 
 After that, simply start up Emacs and everything will download and initialize.
 
+# Versions
+
+    - Emacs: GNU Emacs 24.3.1 (x86_64-apple-darwin, NS apple-appkit-1038.36) of 2013-03-13 on bob.porkrind.org
+    - Git: git version 1.8.5.2 (Apple Git-48)
+    - iTerm2: Build 1.0.0.20140112
+    - OSX: Version 10.9.2 - 2.7 GHz Intel Core i7, 16GB 1600 MHz DDR3
+    - Background: 7372643860_266aa3ca55_o.jpg (not really relevant)
